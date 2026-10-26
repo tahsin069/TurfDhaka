@@ -1,0 +1,6 @@
+{
+  "name": "TurfDhaka — Dhaka Football Turf & Arena Directory",
+  "description": "Discover, compare, and book all 26 artificial football and futsal turfs across 7 zones in Dhaka with direct contact numbers, operating hours, and zone-wise filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
